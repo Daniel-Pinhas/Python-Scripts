@@ -1,3 +1,4 @@
+
 #!/usr/bin/python3
 
 def max3(x, y ,z):
@@ -8,4 +9,4 @@ def max3(x, y ,z):
     else:
         return z
     
-print(max3(-5, 1 ,-19))
+print(max3(-5, -1 ,-19))
